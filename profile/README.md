@@ -16,4 +16,4 @@ We handle the setup. You get intelligence delivered to your dashboard.
 
 ---
 
-[getzynt.com](https://getzynt.com) · [contact@getzynt.com](mailto:contact@getzynt.com) · [LLM context](https://github.com/getzynt/zynt-shareable/blob/main/llms.txt)
+[getzynt.com](https://getzynt.com) · [Watch the explainer](https://youtu.be/N2FKx6TMsWs?utm_source=github&utm_medium=readme&utm_campaign=org-profile) · [contact@getzynt.com](mailto:contact@getzynt.com) · [LLM context](https://github.com/getzynt/zynt-shareable/blob/main/llms.txt)
